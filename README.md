@@ -15,4 +15,5 @@ Dept. of Medical Informatics, College of Medicine, Catholic University of Korea,
 Department of Immunology, School of Medicine, Kyungpook National University, Daegu 41944, Republic of Korea
 Department of Pathology, Kyungpook National University Chilgok Hospital, School of Medicine, Kyungpook National University, Daegu 41944, Republic of Korea
 Biomedical Research Institute, Kyungpook National University Hospital, Daegu 41940, Republic of Korea
-# First authors equally contributed $ These authors jointly supervised this work
+
+ # First authors equally contributed $ These authors jointly supervised this work
